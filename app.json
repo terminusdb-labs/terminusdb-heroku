@@ -2,7 +2,7 @@
   "name": "TerminusDB",
   "description": "The Knowledge Collaboration Database",
   "stack": "container",
-  "repository": "",
-  "logo": "https://github.com/dmytri/terminus-heroku/tree/master",
+  "logo": "https://community.terminusdb.com/static/images/site_logo/cowduck_sitting_logo.png",
+  "repository": "https://github.com/dmytri/terminus-heroku/tree/master",
   "keywords": ["terminusdb", "database", "graph", "graph database", "semantics",  "knowledge graph", "knowledge collaboration", "rdf", "owl"]
 }

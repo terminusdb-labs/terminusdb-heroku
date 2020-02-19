@@ -1,17 +1,9 @@
 {
   "name": "TerminusDB",
   "description": "The Knowledge Collaboration Database",
-  "website": "https://terminusdb.com/",
   "logo": "https://raw.githubusercontent.com/dmytri/terminus-heroku/master/cowduck.jpg",
   "repository": "https://github.com/dmytri/terminus-heroku/tree/master",
   "stack": "container",
-  "labs": "enable",
   "keywords": ["terminusdb", "database", "graph", "graph database", "semantics",  "knowledge graph", "knowledge collaboration", "rdf", "owl"],
-  "success_url": "/console",
-  "env": {
-    "ADMIN_PASS": {
-      "description": "Please enter a root password for your TerminusDB",
-      "required": "true"
-    }
-  }
+  "success_url": "/console"
 }

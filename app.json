@@ -11,6 +11,9 @@
     "ADMIN_PASS": {
       "description": "Please enter a root password for your TerminusDB",
       "required": "true"
+    },
+    "HEROKU_APP_NAME": {
+        "required": true
     }
   }
 }

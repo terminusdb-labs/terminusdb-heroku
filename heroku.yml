@@ -4,5 +4,4 @@ build:
 run:
   web: >
     SERVER_PORT=$PORT
-    PUBLIC_URL=https://$HEROKU_APP_NAME.herokuapp.com
     /app/terminusdb/init_docker.sh

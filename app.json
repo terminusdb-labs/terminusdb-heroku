@@ -5,6 +5,7 @@
   "logo": "https://raw.githubusercontent.com/dmytri/terminus-heroku/master/cowduck.jpg",
   "repository": "https://github.com/dmytri/terminus-heroku/tree/master",
   "stack": "container",
+  "labs": "enable",
   "keywords": ["terminusdb", "database", "graph", "graph database", "semantics",  "knowledge graph", "knowledge collaboration", "rdf", "owl"],
   "success_url": "/console",
   "env": {

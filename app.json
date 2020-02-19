@@ -9,11 +9,8 @@
   "success_url": "/console",
   "env": {
     "ADMIN_PASS": {
-      "description": "A randomly generated secret to secure your terminus installation",
-      "generator": "secret"
+      "description": "Please enter a root password for your TerminusDB",
+      "required": "true"
     }
-  },
-  "scripts": {
-    "postdeploy": "echo $ADMIN_PASS"
   }
 }

@@ -1,0 +1,16 @@
+{
+  "name": "terminus-heroku",
+  "version": "1.0.0",
+  "description": "Deploy TerminusDB to Heroku",
+  "scripts": {
+    "heroku:login": "heroku login",
+    "heroku:container:login": "heroku container:login",
+    "heroku:container:push": "heroku container:push web",
+    "heroku:container:release": "heroku container:release web"
+  },
+  "author": "Dmytri Kleiner <dk@trick.ca>",
+  "license": "ISC",
+  "dependencies": {
+    "heroku": "^7.38.1"
+  }
+}

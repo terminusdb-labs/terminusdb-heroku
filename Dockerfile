@@ -1,5 +1,6 @@
 FROM terminusdb/terminus-server:dev
-ENV SERVER_NAME=terminusdb.herokuapp.com
-ENV PUBLIC_URL=https://terminusdb.herokuapp.com
 ENV SERVER_MODE=serve
-CMD SERVER_PORT=$PORT /app/terminusdb/init_docker.sh
+CMD SERVER_PORT="$PORT" \
+    SERVER_NAME="$HEROKU_APP_NAME".herokuapp.com \
+    PUBLIC_URL=https://"$HEROKU_APP_NAME".herokuapp.com \
+    /app/terminusdb/init_docker.sh

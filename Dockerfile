@@ -1,5 +1,6 @@
 FROM terminusdb/terminus-server:dev
 ENV SERVER_MODE=serve
+RUN env
 CMD SERVER_PORT="$PORT" \
     SERVER_NAME="${HEROKU_APP_NAME}.herokuapp.com" \
     PUBLIC_URL="https://${HEROKU_APP_NAME}.herokuapp.com" \

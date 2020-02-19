@@ -2,4 +2,5 @@ build:
   docker:
     web: Dockerfile
 run:
-  web: SERVER_PORT=$PORT /app/terminusdb/init_docker.sh
+  web: >- SERVER_PORT=$PORT
+    /app/terminusdb/init_docker.sh

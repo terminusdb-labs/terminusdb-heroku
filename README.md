@@ -46,15 +46,15 @@ Follow these Tutorials to learn how to use TerminusDB
 ### My First TerminusDB Graph Visualisation — Bike Share Data
 https://medium.com/terminusdb/my-first-terminusdb-graph-visualisation-bike-share-data-39c59a1ab86a
 
-### TerminusDB graph visualisation of Dublin Council voting data 
+#### TerminusDB graph visualisation of Dublin Council voting data 
 https://medium.com/terminusdb/are-you-supporting-the-right-politician-b742debbc8d9
 
 
-### How To Install TerminusDB on your local machine with Terminus Quickstart
+#### How To Install TerminusDB on your local machine with Terminus Quickstart
 
 https://www.katacoda.com/terminus/scenarios/terminus-quickstart
 
-### Like This?
+#### Like This?
 
 Give us a sweet sweet github star here:
 https://github.com/terminusdb/terminus-server

@@ -22,7 +22,7 @@ data. We are working to implement a solution for this.
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-Once TerminusDB is unstalled you will be able to login with the url for your
+Once TerminusDB is installed you will be able to login with the url for your
 heroku app, i.e. ```https://<app name>.herokuapp.com``` and the password you
 set.
 

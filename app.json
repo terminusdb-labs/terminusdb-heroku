@@ -9,11 +9,11 @@
   "env": {
     "APP_NAME": {
       "description": "Repeate app name, please enter the app name from above again.",
-      "required": "true"
+      "required": true
     },
     "ADMIN_PASS": {
       "description": "Enter a secret key to set for root login",
-      "required": "true"
+      "required": true
     }
   }
 }

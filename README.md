@@ -10,7 +10,7 @@
 # Deploy TerminusDB to Heroku
 
 Click this button, and follow instructions there, it will ask you for an app
-name, this neeeds to be a lowercase word without spaces, you will also need to
+name, this needs to be a lowercase word without spaces, you will also need to
 set the root password, and repeat the app name.
 
 The reason you need to repeat the app name is that TerminusDB needs to know the

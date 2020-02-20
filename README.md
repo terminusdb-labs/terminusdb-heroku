@@ -31,7 +31,7 @@ set.
 This sets up a TerminusDB on Heroku to make it easy to play with the database,
 do online turorials, etc, it is not intended to be a production set up,
 especially because Heroku dynos come with ephemeral disks, so any data entered
-will be lost of the dyno is restarted.
+will be lost when the dyno is restarted.
 
 # Documentation
 

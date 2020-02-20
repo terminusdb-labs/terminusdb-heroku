@@ -43,7 +43,7 @@ https://terminusdb.com/docs/
 
 Follow these Tutorials to learn how to use TerminusDB
 
-### My First TerminusDB Graph Visualisation — Bike Share Data
+#### My First TerminusDB Graph Visualisation — Bike Share Data
 https://medium.com/terminusdb/my-first-terminusdb-graph-visualisation-bike-share-data-39c59a1ab86a
 
 #### TerminusDB graph visualisation of Dublin Council voting data 

@@ -8,7 +8,7 @@
   "success_url": "/console",
   "env": {
     "APP_NAME": {
-      "description": "Repeate app name, please enter the app name from above again.",
+      "description": "Repeat app name, please enter the app name from above again.",
       "required": true
     },
     "ADMIN_PASS": {

@@ -5,15 +5,5 @@
   "repository": "https://github.com/dmytri/terminus-heroku/tree/master",
   "stack": "container",
   "keywords": ["terminusdb", "database", "graph", "graph database", "semantics",  "knowledge graph", "knowledge collaboration", "rdf", "owl"],
-  "success_url": "/console",
-  "env": {
-    "APP_NAME": {
-      "description": "Repeat app name, please enter the app name from above again.",
-      "required": true
-    },
-    "ADMIN_PASS": {
-      "description": "Enter a secret key to set for root login",
-      "required": true
-    }
-  }
+  "success_url": "/console"
 }

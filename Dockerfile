@@ -1,4 +1,2 @@
-FROM terminusdb/terminus-server:dev
+FROM terminusdb/terminus-server:v1.1.9
 ENV SERVER_MODE=serve
-ENV ENABLE_WELCOME=true
-
